@@ -34,5 +34,5 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write(f"середній бал з пітона: {python_gpa}\n")
     f.write(f"середній бал з англійської: {english_gpa}\n")
 
-print(f"середній бал по класу: math: {math_gpa}  python: {python_gpa}  english: {english_gpa} ")
+print(f"середній бал по класу: math: {math_gpa}   python: {python_gpa}  english: {english_gpa} ")
 
